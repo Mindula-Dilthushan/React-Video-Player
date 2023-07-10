@@ -12,6 +12,10 @@ git clone https://github.com/Mindula-Dilthushan/React-Video-Player.git
 ![GitHub issues](https://img.shields.io/github/issues/Mindula-Dilthushan/React-Video-Player?&labelColor=black&color=eb3b5a&label=Issues&logo=issues&logoColor=black&style=for-the-badge)
 ![GitHub Contributions](https://img.shields.io/github/contributors/Mindula-Dilthushan/React-Video-Player?&labelColor=black&color=8854d0&style=for-the-badge)
 
+## Installing Package
+- [react-player](https://www.npmjs.com/package/react-player)
+
+
 ### License 📝
 [![GitHub license](https://img.shields.io/github/license/Mindula-Dilthushan/React-Video-Player?&labelColor=black&color=3867d6&style=for-the-badge)](https://github.com/Mindula-Dilthushan/React-Video-Player/blob/master/LICENSE)
 
